@@ -1,0 +1,31 @@
+S.No,Company Name,NSE Symbol,Sector,Issue Price (₹),Issue Size (Cr),Listing Date,Listing Day Close (₹),Listing Gain %,Current Price (₹),Current Gain %,Performance Category 
+1,Bharti Hexacom,BHARTIHEXA,Telecommunication,570,4275,16-04-2024,813.30,42.68,1477.5,159.21,Blockbuster
+2,Swiggy,SWIGGY,Services,390,11327,13-11-2024,456.00,16.92,241.95,-37.96,Disaster
+3,Hyundai Motor India,HYUNDAI,Automobile,1960,27870,22-10-2024,1819.60,-7.16,1945.7,-0.73,Weak
+4,NTPC Green Energy,NTPCGREEN,Power,108,10000,27-11-2024,121.65,12.64,97.56,-9.67,Weak
+5,Vishal Mega Mart,VMM,Services,78,8000,18-12-2024,111.93,43.50,118.14,51.46,Blockbuster
+6,Sagility India,SAGILITY,Information Technology,30,2107,12-11-2024,29.32,-2.27,39.65,32.17,Strong
+7,Waaree Energies,WAAREEENER,Power,1503,4321,28-10-2024,2338.90,55.62,2998.5,99.50,Blockbuster
+8,Premier Energies,PREMIERENE,Power,450,2830,03-09-2024,2338.90,419.76,1068.4,137.42,Blockbuster
+9,Western Carriers,WCIL,Services,172,492,28-09-2024,159.44,-7.30,90.86,-47.17,Disaster
+10,Diffusion Engineers,DIFFNKG,Metals & Mining,168,158,26-08-2024,203.17,20.93,355,111.31,Blockbuster
+11,ACME Solar Holdings,ACMESOLAR,Power,289,2900,13-11-2024,253.15,-12.40,337,16.61,Moderate
+12,Niva Bupa Health Insurance,NIVABUPA,Financial Services,74,2200,14-11-2024,74.00,0.00,83.6,12.97,Moderate
+13,Afcons Infrastructure,AFCONS,Construction,463,5430,04-11-2024,474.20,2.42,317.8,-31.36,Disaster
+14,Brainbees (FirstCry),FIRSTCRY,Services,465,4194,13-08-2024,679.10,46.04,212.69,-54.26,Disaster
+15,Awfis Space Solutions,AWFIS,Services,383,599,30-05-2024,421.75,10.12,282.2,-26.32,Disaster
+16,Ola Electric,OLAELEC,Automobile,76,6145,09-08-2024,91.20,20.00,44.71,-41.17,Disaster
+17,Bansal Wire Industries,BANSALWIRE,Metals & Mining,256,745,10-07-2024,350.35,36.86,290.7,13.55,Moderate
+18,Kross Limited,KROSS,Automobile,240,500,14-09-2024,259.81,8.25,177.57,-26.01,Disaster
+19,BLS E-Services,BLSE,Information Technology,135,310,14-01-2025,366.00,171.11,225.44,66.99,Blockbuster
+20,Indegene,INDGN,Healthcare,452,1842,13-05-2024,570.90,26.31,512.65,13.42,Moderate
+21,Aadhar Housing Finance,AADHARHFC,Financial Services,315,3000,15-05-2024,329.45,4.59,455.9,44.73,Strong
+22,Go Digit General Insurance,GODIGIT,Financial Services,272,2615,23-05-2024,306.00,12.50,296.6,9.04,Moderate
+23,JNK India,JNKINDIA,Construction,415,649,23-04-2024,694.55,67.36,475.4,14.55,Moderate
+24,Vodafone Idea FPO,IDEA,Telecommunication,11,18000,22-04-2024,13.90,26.36,14.35,30.45,Strong
+25,Ceigall India,CEIGALL,Construction,401,1252.66,16-07-2024,386.75,-3.55,352.55,-12.08,Weak
+26,HDB Financial Services,HDBFS,Financial Services,740,12500,03-07-2025,840.95,13.64,623.15,-15.79,Weak
+27,Ellenbarrie Industrial Gases,ELLEN,Metals & Mining,285,852,24-06-2025,534.60,87.58,260.2,-8.70,Weak
+28,Globe Civil Projects,GLOBECIVIL,Construction,72,119,24-06-2025,94.46,31.19,38.78,-46.14,Disaster
+29,Sambhv Steel Tubes,SAMBHV,Metals & Mining,82,540,01-07-2025,97.59,19.01,103.46,26.17,Strong
+30,Arisinfra Solutions,ARIS,Construction,222,500,01-07-2025,174.38,-21.45,112.35,-49.39,Disaster
